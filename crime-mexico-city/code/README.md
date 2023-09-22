@@ -1,4 +1,4 @@
-**Contents**
+### Contents
 
 - 9 python notebooks
 	- DataPreProcessing: runs the data pre-processing (cleaning and merging of data) using the PreProcessing module
