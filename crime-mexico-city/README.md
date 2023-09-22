@@ -1,3 +1,5 @@
+## Contents
+
 Jupyter notebooks of the application of machine learning techniques to the spatial and temporal study of crime in Mexico City.
 
 - Areal units of analysis: neighborhoods.
